@@ -3,7 +3,7 @@
 ## My name is ~ 😎
 - 🔭 I’m ~. [Website Link](https://moneytory.000webhostapp.com/)
 - 🌱 I’m ~.
-- 👯 I’m ~ [Bellshade](https://github.com/bellshade) as maintainer.
+- 👯 I’m ~ [+++](https://github.com/+++) +++.
 - 💬 ~.
 - ⚡ ~.
 

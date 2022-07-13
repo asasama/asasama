@@ -3,6 +3,7 @@
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=asasama&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asasama&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
 <a href="https://discord.com/users/936464136911585330><img src="https://lanyard-profile-readme.vercel.app/api/936464136911585330" alt="Discord" /></a>
+<br>
 
 ## 👨‍💻 About Me (●'◡'●)
 - 😎 Hello, my name is Chatam Disty Fashanjaya, my friend call me fasha / asha / asa
